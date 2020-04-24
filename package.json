@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/abdurezakMussa/NoteTaker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "join": "^3.0.0"
   }
 }

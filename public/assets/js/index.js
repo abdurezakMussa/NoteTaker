@@ -139,5 +139,4 @@ $noteList.on("click", ".delete-note", handleNoteDelete);
 $noteTitle.on("keyup", handleRenderSaveBtn);
 $noteText.on("keyup", handleRenderSaveBtn);
 
-// Gets and renders the initial list of notes
-getAndRenderNotes();
+// Gets and renders the ini
