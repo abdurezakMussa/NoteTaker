@@ -71,6 +71,5 @@ module.exports = function(app){
 
         // Write notes data to database
         writeToDB(notesData);
-
     });
 };
