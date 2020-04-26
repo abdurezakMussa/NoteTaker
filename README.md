@@ -9,11 +9,10 @@
    ## Installation 
    Run node.js and perform an npm install to bring in all liabrary and necesarry node modules. The program is run with the command "node main.js"
   
-   ## Testing
-   This program was build using class syntax and constructor functions. The function for each employee type was tested before building out the rest of the program.
   
-## Demo
-![Note taker Demo](Demo/note.gif)
+  
+   ## Demo
+   ![Note taker Demo](Demo/note.gif)
 
 ## License
  © 2020 Abdurezak M Abdelkader, University of Richmond (Bootcamp Spot)
